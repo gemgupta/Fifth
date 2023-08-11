@@ -58,7 +58,7 @@ const Login = (props) => {
             emailIsValid === false ? classes.invalid : ''
           }`}
         >
-          <label htmlFor="email">E-Mail</label>
+          <label htmlFor="email">E-Mail.</label>
           <input
             type="email"
             id="email"
